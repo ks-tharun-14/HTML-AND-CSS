@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    height: 400px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.one{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+}
+
+.two{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+
+.three{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+
+
+.main1{
+    height: 400px;
+    width: 100%;
+    background-color: cyan;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.one1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.two1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+.three1{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+}
